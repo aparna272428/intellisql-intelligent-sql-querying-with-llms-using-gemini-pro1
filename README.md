@@ -40,11 +40,7 @@ IntelliSQL/
 
 **⚙️ Setup & Installation**
 
-**Clone the Repository:**
 
-Bash
-eg: git clone https://github.com/Shaik-Mohammad-Ashfaq/IntelliSQL.git
-cd IntelliSQL
 
 **Set up Environment:**
 
